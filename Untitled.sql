@@ -1,0 +1,1 @@
+SELECT * FROM wf3zoo.ANIMAL;
